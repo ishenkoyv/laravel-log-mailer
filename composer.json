@@ -1,5 +1,5 @@
 {
-    "name": "designmynight/laravel-log-mailer",
+    "name": "ishenkoyv/laravel-log-mailer",
     "description": "A package to support logging via email in Laravel",
     "homepage": "https://github.com/designmynight/laravel-log-mailer",
     "license": "MIT",
